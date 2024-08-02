@@ -1,0 +1,3 @@
+a. NOMBRE: Isabella
+b. APELLIDO: Guerrero Rivera
+c. FECHA_DE_NACIMIENTO: 2005-10-15
